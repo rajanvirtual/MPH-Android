@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_job_list"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_job_list" />
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_calendar" />
+    <item
+        android:id="@+id/nav_customers"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_customers" />
+    <item
+        android:id="@+id/nav_jobs"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_jobs" />
+    <item
+        android:id="@+id/nav_inventory"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_inventory" />
+    <item
+        android:id="@+id/nav_workers"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_workers" />
+    <item
+        android:id="@+id/nav_payroll"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_payroll" />
+
+    <item
+        android:id="@+id/nav_approvals"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_approvals" />
+
+    <item
+        android:id="@+id/nav_master_setup"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_master_setup" />
+
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="@string/menu_help" />
+
+</menu>

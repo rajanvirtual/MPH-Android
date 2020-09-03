@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyProHelper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="menu_job_list">Job List</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="menu_customers">Customers</string>
+    <string name="menu_jobs">Jobs</string>
+    <string name="menu_inventory">Inventory</string>
+    <string name="menu_workers">Workers</string>
+    <string name="menu_payroll">Payroll</string>
+    <string name="menu_approvals">Approvals</string>
+    <string name="menu_master_setup">Master Setup</string>
+    <string name="menu_help">Help</string>
+
+
+    <string name="txt_done">DONE</string>
+    <string name="txt_add_widgets">Add Widgets</string>
+    <string name="txt_add_and_organise_what_you_prefer_doing_most_in_the_application_on_dashboard">Add and organise what you prefer doing most in the application on dashboard</string>
+    <string name="txt_job_title">Job Title</string>
+    <string name="txt_enter_text">Enter text</string>
+    <string name="txt_select">Select</string>
+    <string name="txt_enter_your_issue">Enter your issue</string>
+    <string name="txt_your_name">Your Name</string>
+    <string name="txt_your_phone">Your Phone</string>
+    <string name="txt_your_email">Your Email</string>
+    <string name="txt_address_1">Address 1</string>
+    <string name="txt_address_2">Address 2</string>
+    <string name="txt_city">City</string>
+    <string name="txt_state">State</string>
+    <string name="txt_zip">Zip</string>
+    <string name="txt_worker_name">Worker Name</string>
+    <string name="txt_scheduled_date_time">Scheduled Date Time</string>
+    <string name="txt_job_status">Job Status</string>
+
+
+</resources>
